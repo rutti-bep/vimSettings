@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/konnosatoru/src/github.com/rutti-bep/timelagretweet/dest/html'
+let g:netrw_dirhist_2='/Users/konnosatoru/src/github.com/rutti-bep/kanColleWidget/src/js/Components/Services/Twitter'
+let g:netrw_dirhist_3='/Users/konnosatoru/src/github.com/vantan-phh/docker-learning'
+let g:netrw_dirhist_4='/Users/konnosatoru/src/github.com/vantan-phh'
+let g:netrw_dirhist_5='/Users/konnosatoru/src/github.com/rutti-bep/study-rails-tutorial/sample_app/test'
+let g:netrw_dirhist_6='/Users/konnosatoru/src/github.com/rutti-bep/study-rails-tutorial/sample_app/test/controllers'
+let g:netrw_dirhist_7='/Users/konnosatoru/src/github.com/rutti-bep/timelagretweet/dest/js'
+let g:netrw_dirhist_8='/Users/konnosatoru/src/github.com/rutti-bep/docker-wine-japanese'
+let g:netrw_dirhist_9='/Users/konnosatoru/src/github.com/rutti-bep'
